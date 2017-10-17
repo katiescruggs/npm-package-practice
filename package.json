@@ -1,0 +1,18 @@
+{
+  "name": "@katiescruggs/basic-sorts",
+  "version": "1.0.0",
+  "description": "Bubble and insertion sorts",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Katie Scruggs",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
